@@ -1,0 +1,7 @@
+
+XML stands for EXtensible Markup Language
+XML is a markup language much like HTML.
+XML was designed to describe data.
+XML tags are not predefined in XML. You must define your own tags.
+XML is self describing.
+XML uses a DTD (Document Type Definition) to formally describe the dat
